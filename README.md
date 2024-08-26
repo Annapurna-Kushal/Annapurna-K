@@ -1,4 +1,4 @@
-# Annapurna-K
+
 ![logo](https://github.com/Annapurna-Kushal/Annapurna-K/blob/master/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi, I'm Annapurna Kushal</h1>
 <h3 align="center">A CSE student from India</h3>
