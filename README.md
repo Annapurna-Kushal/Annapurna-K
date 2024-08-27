@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/Annapurna-Kushal/Annapurna-K/blob/master/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi, I'm Annapurna Kushal</h1>
-<h3 align="center">A CSE student from India</h3>
+<h3 align="center">A CSE student </h3>
 <img align="center" alt="cse" width="400" src="https://blogs.microsoft.com/wp-content/uploads/2016/04/Invisible-revolution-GIF.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annapurna-kushal&label=Profile%20views&color=0e75b6&style=flat" alt="annapurna-kushal" /> </p>
 
